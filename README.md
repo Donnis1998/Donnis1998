@@ -4,9 +4,9 @@
 <tr>
 <td>
 
-[<img align="left" alt="albert1998 | Facebook" width="22px" src="./assets/icons/facebook.png" />][facebook]
-[<img align="left" alt="@Alberto_9808 | Twitter" width="22px" src="./assets/icons/twitter.png" />][twitter]
-[<img align="left" alt="@alberto_torres1998 | Instagram" width="22px" src="./assets/icons/instagram.png" />][instagram]
+[<img align="left" alt="Alberto Torres | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+[<img align="left" alt="@Alberto_9808 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+[<img align="left" alt="@alberto_torres1998 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
 
 </td>
 </tr>
