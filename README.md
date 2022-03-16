@@ -11,16 +11,14 @@
 </table>
 
 
-<details>
-  <summary>:zap: About me!</summary>
+## ⚡ About me!
 
-### 💻 Software Engineer !!
+- 💻 Software Engineer
 - 🧑‍🦰 I'm a person with a high spirit of improvement personally and professionally, always willing to acquire new knowledge that allows me to be more productive and perform my work efficiently. I believe that self-learning and teamwork are key factors for professional growth.
 - 👨‍💻 I currently work as a freelancer. I am a web and mobile developer dedicated to creating software solutions using frameworks such as React.js, React Native, and Expo.
 - 🤓 My main programming languages are JavaScript, TypeScript, and Node.js.
 - 🔥 I have knowledge about the use of Backend as a Service platforms such as Firebase.
 - 🍃 I have also worked with database systems such as Mongo Db, MySQL, PostgreSQL, and Firestore.
-</details>
 
 <br />
 
