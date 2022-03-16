@@ -6,8 +6,6 @@
 <a href="https://www.facebook.com/albert1998" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 <a href="https://twitter.com/Alberto_9808" target="_blank"> <img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 <a href="www.linkedin.com/in/albert1998" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-
 </td>
 </tr>
 </table>
@@ -63,11 +61,6 @@
 ## **Latest Projects**
 
 ### **Findely** 
-<br />
-<div>
-<iframe src="https://app.findelyec.com/" style="width:100%; height:300px;"
-></iframe>
-</div>
 <br />
 
 - Findely is a platform that aims to allow people to know important information about the various businesses, professionals, services, transportation and more that are available in their city, all in a single app.
