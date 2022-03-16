@@ -65,6 +65,10 @@
 
 ### **Findely** 
 <br />
+<div>
+<iframe src="https://app.findelyec.com/" style="width:100%; height:300px;"
+></iframe>
+</div>
 
 - Findely is a platform that aims to allow people to know important information about the various businesses, professionals, services, transportation and more that are available in their city, all in a single app.
 
