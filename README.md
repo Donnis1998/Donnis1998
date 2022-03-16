@@ -17,6 +17,7 @@
   <summary>:zap: About me!</summary>
 
 ### 💻 Software Engineer !!
+- 🧑‍🦰 I'm a person with a high spirit of improvement personally and professionally, always willing to acquire new knowledge that allows me to be more productive and perform my work efficiently. I believe that self-learning and teamwork are key factors for professional growth.
 - 👨‍💻 I currently work as a freelancer. I am a web and mobile developer dedicated to creating software solutions using frameworks such as React.js, React Native, and Expo.
 - 🤓 My main programming languages are JavaScript, TypeScript, and Node.js.
 - 🔥 I have knowledge about the use of Backend as a Service platforms such as Firebase.
@@ -50,13 +51,29 @@
 <br /><br />
 
 ## Github Stats
-
+<br />
 <div>
   <a href="https://github.com/Donnis1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Donnis1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donnis1998&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Donnis1998&theme=blue-green"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donnis1998&theme=blue-green"/>
 </div>
 
 <br /><br />
 
-## Latest Projects
+## **Latest Projects**
+<br />
+
+### **Findely** 
+<br />
+
+- Findely is a platform that aims to allow people to know important information about the various businesses, professionals, services, transportation and more that are available in their city, all in a single app.
+
+- Within the Business Section people can find restaurants, coffee shops, liquor stores, clothing stores, technology stores and more. They also have access to the product catalogs of each business and can place orders directly from the app, where the order will arrive in a clear and orderly way to the business' WhatsApp.
+
+- With the Professional Section, people will find qualified professionals such as Doctors, Lawyers, Accountants, Dentists, Veterinarians, etc. as well as unskilled professionals such as Masons, Carpenters, Electricians and more
+
+- Learn more about this project here:
+
+  -  <a href="https://findelyec.com/" target="_blank">👉 Findely Official Page</a>
+  -  <a href="https://app.findelyec.com/" target="_blank">👉 Findely Web App</a>
+  -  <a href="https://play.google.com/store/apps/details?id=com.findely.findely&hl=es&gl=US" target="_blank">👉 Findely Android App</a>
