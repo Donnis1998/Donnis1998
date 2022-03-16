@@ -1,16 +1,5 @@
 <h1 align="center">Hi there, I'm Alberto Torres </h1>
 
-<table align="right">
-<tr>
-<td>
-<a href="https://www.facebook.com/albert1998" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-<a href="https://twitter.com/Alberto_9808" target="_blank"> <img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="www.linkedin.com/in/albert1998" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-</td>
-</tr>
-</table>
-
-
 ## ⚡ About me!
 
 - 💻 Software Engineer
@@ -19,6 +8,14 @@
 - 🤓 My main programming languages are JavaScript, TypeScript, and Node.js.
 - 🔥 I have knowledge about the use of Backend as a Service platforms such as Firebase.
 - 🍃 I have also worked with database systems such as Mongo Db, MySQL, PostgreSQL, and Firestore.
+
+<br />
+
+## ⚡ My social networks!
+
+<a href="https://www.facebook.com/albert1998" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+<a href="https://twitter.com/Alberto_9808" target="_blank"> <img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="www.linkedin.com/in/albert1998" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <br />
 
