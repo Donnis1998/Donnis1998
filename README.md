@@ -3,10 +3,10 @@
 <table align="right">
 <tr>
 <td>
+<a href="https://www.facebook.com/albert1998" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+<a href="https://twitter.com/Alberto_9808" target="_blank"> <img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="www.linkedin.com/in/albert1998" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-[<img align="left" alt="Alberto Torres | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@Alberto_9808 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@alberto_torres1998 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
 
 </td>
 </tr>
@@ -25,13 +25,38 @@
 
 <br />
 
-<h3 align="center">Languages and Tools</h3>
-
+## Languages and Tools
+<br />
 <p align="center">
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&&logoColor=white&color=2bbc8a"/> </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/> </a>
 </p>
+<br /><br />
 
-### Latest Projects
+## Github Stats
+
+<div>
+  <a href="https://github.com/Donnis1998">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Donnis1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donnis1998&theme=blue-green"/>
+</div>
+
+<br /><br />
+
+## Latest Projects
