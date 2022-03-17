@@ -20,7 +20,9 @@
 <br />
 
 ## Languages and Tools
+
 <br />
+
 <p align="center">
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
@@ -44,9 +46,11 @@
 <br /><br />
 
 ## Github Stats
+
 <br />
+
 <div>
-  <a href="https://github.com/Donnis1998">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Donnis1998&theme=blue-green"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donnis1998&theme=blue-green"/>
 </div>
@@ -56,6 +60,7 @@
 ## **Latest Projects**
 
 ### **Findely** 
+
 <br />
 
 - Findely is a platform that aims to allow people to know important information about the various businesses, professionals, services, transportation and more that are available in their city, all in a single app.
@@ -90,7 +95,7 @@
   
 - It also has an intuitive dashboard that presents various indicators based on the information collected. In this way the user can keep track of their expenses and sales, as well as apply a series of filters that will help you easily identify which of your pools generates higher profits, which are the months with higher sales and more relevant information that allows you to make better decisions for the benefit of your company.
 
-<img src="../Donnis1998/assets/agenda_camaronera/BannerAgendaCamaronera1.png"/>
+<img with='100%' height='300xp' src="../Donnis1998/assets/agenda_camaronera/BannerAgendaCamaronera1.png"/>
 
 - Learn more about this project here:
 
