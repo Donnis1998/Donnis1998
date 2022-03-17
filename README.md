@@ -63,6 +63,8 @@
 
 <br />
 
+![](./assets/findely/BannerFindely2022.png)
+
 - Findely is a platform that aims to allow people to know important information about the various businesses, professionals, services, transportation and more that are available in their city, all in a single app.
 
 - Within the Business Section people can find restaurants, coffee shops, liquor stores, clothing stores, technology stores and more. They also have access to the product catalogs of each business and can place orders directly from the app, where the order will arrive in a clear and orderly way to the business' WhatsApp.
