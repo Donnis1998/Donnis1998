@@ -89,3 +89,11 @@
 - In addition, you can register your expenses and sales in a clear and orderly manner, with the possibility of attaching images of invoices or other documents corresponding to these operations.
   
 - It also has an intuitive dashboard that presents various indicators based on the information collected. In this way the user can keep track of their expenses and sales, as well as apply a series of filters that will help you easily identify which of your pools generates higher profits, which are the months with higher sales and more relevant information that allows you to make better decisions for the benefit of your company.
+
+<img src="../Donnis1998/assets/agenda_camaronera/BannerAgendaCamaronera1.png"/>
+
+- Learn more about this project here:
+
+
+  -  <a href="https://app-klargo.web.app/" target="_blank">👉 Agenda Camaronera Web App</a>
+  -  <a href="https://play.google.com/store/apps/details?id=com.findely.agendacamaronera" target="_blank">👉 Agenda Camaronera Android App</a>
