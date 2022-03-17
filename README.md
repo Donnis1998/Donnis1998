@@ -95,10 +95,21 @@
   
 - It also has an intuitive dashboard that presents various indicators based on the information collected. In this way the user can keep track of their expenses and sales, as well as apply a series of filters that will help you easily identify which of your pools generates higher profits, which are the months with higher sales and more relevant information that allows you to make better decisions for the benefit of your company.
 
-<img with='100%' height='300xp' src="../assets/agenda_camaronera/AC1.png"/>
-
 - Learn more about this project here:
 
 
   -  <a href="https://app-klargo.web.app/" target="_blank">👉 Agenda Camaronera Web App</a>
   -  <a href="https://play.google.com/store/apps/details?id=com.findely.agendacamaronera" target="_blank">👉 Agenda Camaronera Android App</a>
+
+
+<br /><br />
+### **MY Haircuts** 
+<br />
+
+![](./assets/my_haircuts//HaircutBanner.png)
+
+- My Haircuts is an application that I developed some time ago for a group of barbers in my town, it aims to facilitate the registration of their cuts and expenses throughout the month, as they had told me that it is difficult to know their net profits because their income and expenses are generated daily, so I decided to help by creating a mobile solution using technologies such as React Native, Expo and Firebase.
+
+- Learn more about this project here:
+
+  -  <a href="https://play.google.com/store/apps/details?id=com.findely.myhaircuts" target="_blank">👉 My Haircuts Android App</a>
