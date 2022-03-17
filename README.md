@@ -69,3 +69,23 @@
   -  <a href="https://findelyec.com/" target="_blank">👉 Findely Official Page</a>
   -  <a href="https://app.findelyec.com/" target="_blank">👉 Findely Web App</a>
   -  <a href="https://play.google.com/store/apps/details?id=com.findely.findely&hl=es&gl=US" target="_blank">👉 Findely Android App</a>
+
+
+<br /><br />
+### **Agenda Camaronera** 
+<br />
+
+![](../Donnis1998/assets/agenda_camaronera/BannerAgendaCamaronera2.png)
+
+- Agenda Camaronera is an application that aims to facilitate the management of information within small shrimp companies, in addition to providing the indicators (KPIs) necessary to carry out efficient decision making.
+
+- The application allows the segmentation of users, so the administrator can register other collaborators to perform certain tasks within the same application according to the assigned position (secretary, laborer or administrator).
+
+- The user can manage the information of their shrimp farms, pools, runs, workers, suppliers and distributors in one place and consult them quickly.
+
+
+![](../Donnis1998/assets/agenda_camaronera/BannerAgendaCamaronera1.png)
+
+- In addition, you can register your expenses and sales in a clear and orderly manner, with the possibility of attaching images of invoices or other documents corresponding to these operations.
+  
+- It also has an intuitive dashboard that presents various indicators based on the information collected. In this way the user can keep track of their expenses and sales, as well as apply a series of filters that will help you easily identify which of your pools generates higher profits, which are the months with higher sales and more relevant information that allows you to make better decisions for the benefit of your company.
